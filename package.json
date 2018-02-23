@@ -11,7 +11,7 @@
   "license": "GPL-3.0+",
   "main": "dist/sigma.require.js",
   "dependencies": {
-    "xlsx": "~0.7.12",
+    "xlsx": "~0.12.2",
     "dagre": "~0.7.4"
   },
   "devDependencies": {
